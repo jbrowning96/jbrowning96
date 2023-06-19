@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github Profile! 👋
 
 <!--
 **jbrowning96/jbrowning96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Justin, and I am a student at the University of North Texas studying Mathematics, Computer Science, and German.
+
+- 🔭 I’m currently working on rounding out my experience as a programmer on various types of projects.
+- 🌱 I’m currently learning about the Julia Programming Language, Advanced Mathematics and Web Development.
+- 👯 I’m looking to collaborate on projects involving Data Science, Modeling and Simulation.
+- 🎮 My favorite video games are: Final Fantasy 14 and Path of Exile.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm incapable of arriving anywhere without being 20 minutes early.
