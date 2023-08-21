@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Justin, and I am a student at the University of North Texas studying Mathematics, Computer Science, and German.
 
 - 🔭 I’m currently working on rounding out my experience as a programmer on various types of projects.
-- 🌱 I’m currently learning about the Julia Programming Language, Advanced Mathematics and Web Development.
+- 🌱 I’m currently learning about Scientific Computing, Advanced Mathematics and Web Development.
 - 👯 I’m looking to collaborate on projects involving Data Science, Modeling and Simulation.
 - 🎮 My favorite video games are: Final Fantasy 14 and Path of Exile.
 - 😄 Pronouns: He/Him
