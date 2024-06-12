@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Justin, and I am a student at the University of North Texas studying Mathematics, Computer Science, and German.
+My name is Justin, and I am a graduate student at the University of North Texas studying Mathematics. 
 
-- 🔭 I’m currently working on rounding out my experience as a programmer on various types of projects.
-- 🌱 I’m currently learning about Scientific Computing, Advanced Mathematics and Web Development.
-- 👯 I’m looking to collaborate on projects involving Data Science, Modeling and Simulation.
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning about elliptic curves and arithmetic geometry.
+- 👯 I’m looking to collaborate on projects in environmental modelling and number theory. 
 - 🎮 My favorite video games are: Final Fantasy 14 and Path of Exile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm incapable of arriving anywhere without being 20 minutes early.
