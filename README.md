@@ -22,4 +22,3 @@ My name is Justin, and I am a graduate student at the University of North Texas 
 - 👯 I’m looking to collaborate on projects in environmental modelling and number theory. 
 - 🎮 My favorite video games are: Final Fantasy 14 and Path of Exile.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm incapable of arriving anywhere without being 20 minutes early.
